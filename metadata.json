@@ -1,0 +1,6 @@
+{
+  "name": "LiveWall – Live Wallpapers",
+  "description": "Production-ready Android Live Wallpaper application built with Kotlin, Jetpack Compose, Material 3, ExoPlayer Media3 WallpaperService, Room Database, and Admin Backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
